@@ -63,16 +63,26 @@
 - [x] Frontend Role-based UI (Admin, Teacher, Student Views)
 
 ## Phase 4: Assignments
-- [ ] Backend + Frontend
+- [x] Backend Assignment Models & Submissions (Assignments, Student Submissions, Grading)
+- [x] Backend API Endpoints (Assignment CRUD, Submissions, Teacher/Admin Grading)
+- [x] Frontend Role-based UI (Admin Overview, Teacher Management, Student Submission)
 
 ## Phase 5: Examinations & Results
-- [ ] Backend + Frontend
+- [x] Backend Exam Models & Result Logic (Exams, Student Results, Grades, Publishing)
+- [x] Backend API Endpoints (Exam CRUD, Result Entry, Published Student Results)
+- [x] Frontend Role-based UI (Admin Exams, Admin Results, Teacher Result Entry, Student Results)
 
 ## Phase 6: Fees
-- [ ] Backend + Frontend
+- [x] Backend Fee Models & Payment Logic (Invoices, Payments, Balances, Status Updates)
+- [x] Backend API Endpoints (Invoice CRUD, Payment Recording, Fee Summary)
+- [x] Frontend Role-based UI (Admin Fee Management, Student Fee Status)
 
 ## Phase 7: Notifications
-- [ ] Backend + Frontend
+- [x] Backend Notification Models & Read Receipts (Audience Targeting, Priorities, Read Tracking)
+- [x] Backend API Endpoints (Notification CRUD, Recipients, Unread Count, Mark Read)
+- [x] Frontend Role-based UI (Admin Notification Management, Teacher/Student Inboxes)
 
 ## Phase 8: Reports & Dashboard Stats
-- [ ] Backend + Frontend
+- [x] Backend Report Endpoints (Role-based Dashboard Stats, Admin Reports)
+- [x] Frontend Live Dashboard Stats (Admin, Teacher, Student)
+- [x] Frontend Reports UI (Admin Overview, Academic, Finance, Course Breakdown)
